@@ -629,5 +629,105 @@
     "meta": "第一财经"
    }
   ]
+ },
+ "2026-10-26": {
+  "date": "2026-10-26",
+  "total": 12,
+  "groups": {
+   "国务院": [
+    {
+     "title": "国办关于适应人工智能技术发展助力构建就业友好型发展方式的意见",
+     "url": "https://www.gov.cn/zhengce/content/202610/content_7084107.htm",
+     "meta": "国务院-最新政策 · 2026-10-23"
+    }
+   ],
+   "发改委": [
+    {
+     "title": "国家发展改革委印发《能源保供中长期合同管理办法（试行）》",
+     "url": "https://www.ndrc.gov.cn/xxgk/jd/jd/202610/t20261023_1408367.html",
+     "meta": "发改委-文件库 · 2026-10-23"
+    },
+    {
+     "title": "国家发展改革委有关负责同志就《能源保供中长期合同管理办法（试行）》答记者问",
+     "url": "https://www.ndrc.gov.cn/xxgk/jd/jd/202610/t20261023_1408366.html",
+     "meta": "发改委-文件库 · 2026-10-23"
+    },
+    {
+     "title": "《能源保供中长期合同管理办法(试行)》 2026年第50号令",
+     "url": "https://www.ndrc.gov.cn/xxgk/zcfb/fzggwl/202610/t20261023_1408364.html",
+     "meta": "发改委-文件库 · 2026-10-23"
+    },
+    {
+     "title": "关于公布2027—2028年小麦最低收购价格的通知(发改价格〔2026〕1527号)",
+     "url": "https://zfxxgk.ndrc.gov.cn/web/iteminfo.jsp?id=20669",
+     "meta": "发改委-信息公开 · 2026-10-22"
+    },
+    {
+     "title": "能源保供中长期合同管理办法（试行）",
+     "url": "https://zfxxgk.ndrc.gov.cn/web/iteminfo.jsp?id=20668",
+     "meta": "发改委-信息公开 · 2026-10-19"
+    }
+   ],
+   "住建部": [
+    {
+     "title": "住房城乡建设部关于核准2026年度第十批建设工程企业资质延续名单的公告",
+     "url": "https://www.mohurd.gov.cn/gongkai/zc/wjk/art/2026/art_a4164ea3440147368375b6fb8f29ae29.html",
+     "meta": "住建部-政策库 · 2026-10-19"
+    },
+    {
+     "title": "住房城乡建设部关于核准2026年度第十批建设工程企业资质名单的公告",
+     "url": "https://www.mohurd.gov.cn/gongkai/zc/wjk/art/2026/art_3b973cab21e740cfaf4d55ef1e84f5af.html",
+     "meta": "住建部-政策库 · 2026-10-19"
+    }
+   ],
+   "广东省发改委": [
+    {
+     "title": "关于广东省中学实验仪器设备购置项目初步设计概算的批复",
+     "url": "https://drc.gd.gov.cn/gkmlpt/content/4/4969/post_4969717.html",
+     "meta": "广东-政务公开 · 2026-10-22"
+    }
+   ],
+   "广东省财政厅": [
+    {
+     "title": "广东省财政厅关于佛山市盈正房地产土地评估有限公司等4家机构的注销备案公告",
+     "url": "https://czt.gd.gov.cn/gkmlpt/content/4/4970/post_4970147.html",
+     "meta": "广东财政厅-信息公开 · 2026-10-22"
+    },
+    {
+     "title": "广东省财政厅关于广东中毅资产土地房地产评估有限公司云浮分公司等2家机构的备案公告",
+     "url": "https://czt.gd.gov.cn/gkmlpt/content/4/4970/post_4970145.html",
+     "meta": "广东财政厅-信息公开 · 2026-10-22"
+    }
+   ],
+   "广东省住建厅": [
+    {
+     "title": "广东省住房和城乡建设厅关于征求广东省工程建设标准《城市道路隧道设计标准（送审稿）》意见的公告",
+     "url": "http://zfcxjst.gd.gov.cn/gkmlpt/content/4/4970/post_4970087.html",
+     "meta": "广东住建厅-信息公开 · 2026-10-20"
+    }
+   ]
+  },
+  "featured": [
+   {
+    "title": "国家发展改革委紧急安排3000万元中央预算内投资 支持灾区基础设施...",
+    "url": "https://finance.eastmoney.com/a/202610233905846983.html",
+    "meta": "东方财富网"
+   },
+   {
+    "title": "国家发展改革委紧急安排3000万元中央预算内投资支持西藏巴青7.0级...",
+    "url": "https://www.chinanews.com/gn/2026/10-23/10719625.shtml",
+    "meta": "中国新闻网"
+   },
+   {
+    "title": "财政部辽宁监管局:多措并举 加力提升 消费品以旧换新重点绩效评价...",
+    "url": "http://news.10jqka.com.cn/20261023/c681015237.shtml",
+    "meta": "同花顺"
+   },
+   {
+    "title": "山东省开展超长期特别国债政策落实和资金管理使用情况专项审计调查",
+    "url": "https://v.iqilu.com/sdws/sdxwlb/2026/1023/5957583.html",
+    "meta": "齐鲁网"
+   }
+  ]
  }
 }
