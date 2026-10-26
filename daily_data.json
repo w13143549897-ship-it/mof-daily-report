@@ -729,5 +729,55 @@
     "meta": "齐鲁网"
    }
   ]
+ },
+ "2026-10-27": {
+  "date": "2026-10-27",
+  "total": 7,
+  "groups": {
+   "国务院": [
+    {
+     "title": "事业单位登记管理条例",
+     "url": "https://www.gov.cn/zhengce/content/202610/content_7084279.htm",
+     "meta": "国务院-最新政策 · 2026-10-26"
+    }
+   ],
+   "住建部": [
+    {
+     "title": "住房城乡建设部关于公布2026年全国“十佳环卫人”名单的通知",
+     "url": "https://www.mohurd.gov.cn/gongkai/zc/wjk/art/2026/art_94604fbcdde44fdeb14b3023bf34359f.html",
+     "meta": "住建部-政策库 · 2026-10-26"
+    },
+    {
+     "title": "住房城乡建设部关于2026年第十九批注册监理工程师初始注册人员名单的公告",
+     "url": "https://www.mohurd.gov.cn/gongkai/zc/wjk/art/2026/art_2e2dc5e6b212465395c7a726424c189d.html",
+     "meta": "住建部-政策库 · 2026-10-21"
+    }
+   ],
+   "广东省财政厅": [
+    {
+     "title": "广东省财政厅关于2026年广东省政府债券四季度发行计划的公告",
+     "url": "https://czt.gd.gov.cn/gkmlpt/content/4/4970/post_4970830.html",
+     "meta": "广东财政厅-信息公开 · 2026-10-25"
+    }
+   ],
+   "广东省住建厅": [
+    {
+     "title": "广东省住房和城乡建设厅关于广州地铁设计院施工图咨询有限公司等四家施工图审查机构评审意见的公示",
+     "url": "http://zfcxjst.gd.gov.cn/gkmlpt/content/4/4971/post_4971039.html",
+     "meta": "广东住建厅-信息公开 · 2026-10-26"
+    },
+    {
+     "title": "广东省河源市龙川县佗城等5个历史文化名城、名村保护规划获省政府批复",
+     "url": "http://zfcxjst.gd.gov.cn/gkmlpt/content/4/4970/post_4970882.html",
+     "meta": "广东住建厅-信息公开 · 2026-10-26"
+    },
+    {
+     "title": "致全省环卫工人的慰问信",
+     "url": "http://zfcxjst.gd.gov.cn/gkmlpt/content/4/4970/post_4970840.html",
+     "meta": "广东住建厅-信息公开 · 2026-10-26"
+    }
+   ]
+  },
+  "featured": []
  }
 }
