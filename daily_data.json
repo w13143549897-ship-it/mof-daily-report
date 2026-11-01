@@ -932,5 +932,61 @@
     "meta": "同花顺"
    }
   ]
+ },
+ "2026-11-02": {
+  "date": "2026-11-02",
+  "total": 8,
+  "groups": {
+   "国务院": [
+    {
+     "title": "中共中央关于持之以恒推进全面从严治党若干重大问题的决定",
+     "url": "https://www.gov.cn/zhengce/202611/content_7084690.htm",
+     "meta": "国务院-最新政策 · 2026-11-01"
+    }
+   ],
+   "发改委": [
+    {
+     "title": "关于加强消费基础设施建设 促进消费投资良性互动的指导意见(发改就业〔2026〕1508号)",
+     "url": "https://www.ndrc.gov.cn/xxgk/zcfb/tz/202610/t20261030_1408459.html",
+     "meta": "发改委-政策发布通知 · 2026-10-30"
+    }
+   ],
+   "住建部": [
+    {
+     "title": "关于2026年度第二十五批一级造价工程师初始注册审核意见的公示",
+     "url": "https://www.mohurd.gov.cn/gongkai/zc/wjk/art/2026/art_1d170e80d1234d0ab8b06c21bf0e9363.html",
+     "meta": "住建部-政策库 · 2026-10-30"
+    },
+    {
+     "title": "关于建设工程企业资质告知承诺申报情况的公示",
+     "url": "https://www.mohurd.gov.cn/gongkai/zc/wjk/art/2026/art_cc4cd747352a4663ab0cc2c8b3a703b4.html",
+     "meta": "住建部-政策库 · 2026-10-30"
+    },
+    {
+     "title": "关于建设工程企业资质专家审查意见的公示",
+     "url": "https://www.mohurd.gov.cn/gongkai/zc/wjk/art/2026/art_39ada504d3834ab5bd8f8063ef1be985.html",
+     "meta": "住建部-政策库 · 2026-10-30"
+    },
+    {
+     "title": "关于房地产开发企业申请延续或晋升一级资质评审结果的公示",
+     "url": "https://www.mohurd.gov.cn/gongkai/zc/wjk/art/2026/art_91ff020251724771a8f09c28c3298ea5.html",
+     "meta": "住建部-政策库 · 2026-10-29"
+    }
+   ],
+   "广东省发改委": [
+    {
+     "title": "【部门图解】一图读懂 | “十五五” 时期，广东循环经济怎么干？",
+     "url": "https://drc.gd.gov.cn/gkmlpt/content/4/4973/post_4973434.html",
+     "meta": "广东-政务公开 · 2026-10-30"
+    }
+   ]
+  },
+  "featured": [
+   {
+    "title": "三年深度复盘--国家及天津市工业领域设备更新政策体系、申报要点与...",
+    "url": "http://news.10jqka.com.cn/20261031/c681317971.shtml",
+    "meta": "同花顺"
+   }
+  ]
  }
 }
