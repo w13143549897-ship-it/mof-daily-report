@@ -1560,5 +1560,59 @@
    ]
   },
   "featured": []
+ },
+ "2026-11-12": {
+  "date": "2026-11-12",
+  "total": 6,
+  "groups": {
+   "财政部": [
+    {
+     "title": "财政部印发《会计改革与发展“十五五”规划》",
+     "url": "http://kjs.mof.gov.cn/zhengcefabu/202611/t20261105_4004148.htm",
+     "meta": "财政部政策发布 · 2026-11-05"
+    }
+   ],
+   "住建部": [
+    {
+     "title": "住房城乡建设部办公厅关于《建筑施工特种作业人员监督管理工作实施细则（征求意见稿）》公开征求意见的通知",
+     "url": "https://www.mohurd.gov.cn/gongkai/zc/wjk/art/2026/art_48d04604c236438ca391caaf788773ce.html",
+     "meta": "住建部-政策库 · 2026-11-10"
+    },
+    {
+     "title": "住房城乡建设部安全生产管理委员会办公室关于开展房屋市政工程预防高处坠落专项行动的通知",
+     "url": "https://www.mohurd.gov.cn/gongkai/zc/wjk/art/2026/art_8515cf7de3234302bc7992ed7537772f.html",
+     "meta": "住建部-政策库 · 2026-11-09"
+    },
+    {
+     "title": "住房城乡建设部关于2026年第四十四批一级建造师注册人员名单的公告",
+     "url": "https://www.mohurd.gov.cn/gongkai/zc/wjk/art/2026/art_c716e2474a754f93ba1d8b51f52a7b70.html",
+     "meta": "住建部-政策库 · 2026-11-05"
+    }
+   ],
+   "广东省财政厅": [
+    {
+     "title": "广东省财政厅关于东莞市骏富资产房地产土地评估有限公司备案的公告",
+     "url": "https://czt.gd.gov.cn/gkmlpt/content/4/4978/post_4978700.html",
+     "meta": "广东财政厅-信息公开 · 2026-11-10"
+    },
+    {
+     "title": "广东省财政厅举办2026年全省预算绩效管理培训班",
+     "url": "https://czt.gd.gov.cn/gkmlpt/content/4/4977/post_4977735.html",
+     "meta": "广东财政厅-信息公开 · 2026-11-11"
+    }
+   ]
+  },
+  "featured": [
+   {
+    "title": "国家发展改革委:140亿元中央预算内投资投向养老托育设施",
+    "url": "http://www.ce.cn/xwzx/gnsz/gdxw/202611/t20261110_3289693.shtml",
+    "meta": "中国经济网"
+   },
+   {
+    "title": "国家发展改革委:140亿元中央预算内投资投向养老托育设施",
+    "url": "https://www.yicai.com/news/103433671.html",
+    "meta": "第一财经"
+   }
+  ]
  }
 }
