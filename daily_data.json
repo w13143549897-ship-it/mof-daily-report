@@ -1652,5 +1652,159 @@
    ]
   },
   "featured": []
+ },
+ "2026-11-16": {
+  "date": "2026-11-16",
+  "total": 27,
+  "groups": {
+   "国务院": [
+    {
+     "title": "中共中央印发《中国共产党地方委员会工作条例》",
+     "url": "https://www.gov.cn/zhengce/202611/content_7086080.htm",
+     "meta": "国务院-最新政策 · 2026-11-15"
+    }
+   ],
+   "财政部": [
+    {
+     "title": "《财政部门行使行政处罚裁量权指导规范》修订印发",
+     "url": "http://tfs.mof.gov.cn/zhengcefabu/202611/t20261111_4004415.htm",
+     "meta": "财政部政策发布 · 2026-11-11"
+    }
+   ],
+   "发改委": [
+    {
+     "title": "关于印发《“十五五”新型储能实施方案》的通知(发改能源〔2026〕1565号)",
+     "url": "https://www.ndrc.gov.cn/xxgk/zcfb/tz/202611/t20261113_1408810.html",
+     "meta": "发改委-政策发布通知 · 2026-11-13"
+    }
+   ],
+   "住建部": [
+    {
+     "title": "住房城乡建设部办公厅关于国家标准《建筑用钢结构箱式模块单元及连接配件技术要求（征求意见稿）》公开征求意见的通知",
+     "url": "https://www.mohurd.gov.cn/gongkai/zc/wjk/art/2026/art_8b30e721f7504ffda67f4e747b647e40.html",
+     "meta": "住建部-政策库 · 2026-11-11"
+    },
+    {
+     "title": "住房城乡建设部办公厅关于行业标准《建筑门窗五金件　折叠推拉五金系统（征求意见稿）》公开征求意见的通知",
+     "url": "https://www.mohurd.gov.cn/gongkai/zc/wjk/art/2026/art_1d1757dc0832494d896069e8602ddd13.html",
+     "meta": "住建部-政策库 · 2026-11-11"
+    },
+    {
+     "title": "住房城乡建设部办公厅关于国家标准《架空地面系统通用技术要求（征求意见稿）》公开征求意见的通知",
+     "url": "https://www.mohurd.gov.cn/gongkai/zc/wjk/art/2026/art_73b738018f3a465eb54af6308e752cfe.html",
+     "meta": "住建部-政策库 · 2026-11-11"
+    },
+    {
+     "title": "住房城乡建设部办公厅关于国家标准《城市市政工程抗震韧性指标体系及评估方法（征求意见稿）》公开征求意见的通知",
+     "url": "https://www.mohurd.gov.cn/gongkai/zc/wjk/art/2026/art_4e03fce346e04c81aba6302c90dbb66b.html",
+     "meta": "住建部-政策库 · 2026-11-11"
+    },
+    {
+     "title": "住房城乡建设部办公厅关于国家标准《盾构法隧道施工及质量验收标准（修订征求意见稿）》公开征求意见的通知",
+     "url": "https://www.mohurd.gov.cn/gongkai/zc/wjk/art/2026/art_62d853a3265b43ab95deeb84365c8aa0.html",
+     "meta": "住建部-政策库 · 2026-11-11"
+    },
+    {
+     "title": "住房城乡建设部办公厅关于行业标准《市政工程勘察标准（修订征求意见稿）》公开征求意见的通知",
+     "url": "https://www.mohurd.gov.cn/gongkai/zc/wjk/art/2026/art_29bb9833bb9a48f2a0eb329d0cb25991.html",
+     "meta": "住建部-政策库 · 2026-11-11"
+    },
+    {
+     "title": "住房城乡建设部办公厅关于国家标准《网络互联调度系统工程技术标准（局部修订征求意见稿）》公开征求意见的通知",
+     "url": "https://www.mohurd.gov.cn/gongkai/zc/wjk/art/2026/art_8a5bf9b1ffeb4916aaf6aa7860e6949c.html",
+     "meta": "住建部-政策库 · 2026-11-11"
+    },
+    {
+     "title": "住房城乡建设部办公厅关于国家标准《堤防工程设计标准（修订征求意见稿）》公开征求意见的通知",
+     "url": "https://www.mohurd.gov.cn/gongkai/zc/wjk/art/2026/art_2536140dbd88490fac264304872cb9d6.html",
+     "meta": "住建部-政策库 · 2026-11-11"
+    },
+    {
+     "title": "住房城乡建设部办公厅关于国家标准《天线工程技术标准（局部修订征求意见稿）》公开征求意见的通知",
+     "url": "https://www.mohurd.gov.cn/gongkai/zc/wjk/art/2026/art_bc8586ff26534848ab7653bace8207d9.html",
+     "meta": "住建部-政策库 · 2026-11-11"
+    },
+    {
+     "title": "住房城乡建设部办公厅关于国家标准《化学工业循环冷却水系统设计标准》（修订征求意见稿）公开征求意见的通知",
+     "url": "https://www.mohurd.gov.cn/gongkai/zc/wjk/art/2026/art_25a819ee23424a9997ac23811005e458.html",
+     "meta": "住建部-政策库 · 2026-11-11"
+    },
+    {
+     "title": "住房城乡建设部办公厅关于国家标准《水利水电工程地质勘察标准（修订征求意见稿）》公开征求意见的通知",
+     "url": "https://www.mohurd.gov.cn/gongkai/zc/wjk/art/2026/art_a1d0aae20fc542bf80668ba5dfd4ab18.html",
+     "meta": "住建部-政策库 · 2026-11-11"
+    },
+    {
+     "title": "住房城乡建设部办公厅关于国家标准《河流泥沙测验标准（修订征求意见稿）》公开征求意见的通知",
+     "url": "https://www.mohurd.gov.cn/gongkai/zc/wjk/art/2026/art_a417de1312a14c6c8b645a195169a2db.html",
+     "meta": "住建部-政策库 · 2026-11-11"
+    },
+    {
+     "title": "住房城乡建设部办公厅关于国家标准《水土保持工程调查与勘测标准（局部修订征求意见稿）》公开征求意见的通知",
+     "url": "https://www.mohurd.gov.cn/gongkai/zc/wjk/art/2026/art_92c5a470c5584dba98b215bc1c3074e8.html",
+     "meta": "住建部-政策库 · 2026-11-11"
+    },
+    {
+     "title": "住房城乡建设部办公厅关于国家标准《咸水灌溉工程技术标准（征求意见稿）》公开征求意见的通知",
+     "url": "https://www.mohurd.gov.cn/gongkai/zc/wjk/art/2026/art_07eb8d842a734de59d0cd760f74a73cc.html",
+     "meta": "住建部-政策库 · 2026-11-11"
+    },
+    {
+     "title": "住房城乡建设部办公厅关于国家标准《石油化工循环水场设计标准（局部修订征求意见稿）》公开征求意见的通知",
+     "url": "https://www.mohurd.gov.cn/gongkai/zc/wjk/art/2026/art_2769d94910c44d0b937179d1b2796f7f.html",
+     "meta": "住建部-政策库 · 2026-11-11"
+    },
+    {
+     "title": "住房城乡建设部办公厅关于工程建设强制性国家规范《农业灌溉与排水工程项目规范（征求意见稿）》公开征求意见的通知",
+     "url": "https://www.mohurd.gov.cn/gongkai/zc/wjk/art/2026/art_8817fdb8be9e4abb8c09045798fea6f1.html",
+     "meta": "住建部-政策库 · 2026-11-11"
+    },
+    {
+     "title": "住房城乡建设部办公厅关于国家标准《冶金矿山采矿设计标准（修订征求意见稿）》公开征求意见的通知",
+     "url": "https://www.mohurd.gov.cn/gongkai/zc/wjk/art/2026/art_16241b31d4e94c1b96fbeeea8b2dd4b5.html",
+     "meta": "住建部-政策库 · 2026-11-11"
+    },
+    {
+     "title": "住房城乡建设部办公厅关于国家标准《粉煤灰混凝土应用技术标准（修订征求意见稿）》公开征求意见的通知",
+     "url": "https://www.mohurd.gov.cn/gongkai/zc/wjk/art/2026/art_41442e00db3a4f7aa7965d65142c502c.html",
+     "meta": "住建部-政策库 · 2026-11-11"
+    },
+    {
+     "title": "住房城乡建设部办公厅关于国家标准《石油化工工程数字化交付标准（局部修订征求意见稿）》公开征求意见的通知",
+     "url": "https://www.mohurd.gov.cn/gongkai/zc/wjk/art/2026/art_d3c1fda51a2c4fc7a411880e132609c0.html",
+     "meta": "住建部-政策库 · 2026-11-11"
+    },
+    {
+     "title": "住房城乡建设部办公厅关于国家标准《冶金矿山排土场技术标准（修订征求意见稿）》公开征求意见的通知",
+     "url": "https://www.mohurd.gov.cn/gongkai/zc/wjk/art/2026/art_89ed06125d9d4350a57550c0e6f5c3e6.html",
+     "meta": "住建部-政策库 · 2026-11-11"
+    },
+    {
+     "title": "住房城乡建设部办公厅关于国家标准《水泥工厂余热发电设计标准（局部修订征求意见稿）》公开征求意见的通知",
+     "url": "https://www.mohurd.gov.cn/gongkai/zc/wjk/art/2026/art_a3ddebaf9de54b51aa94f2e8400d5058.html",
+     "meta": "住建部-政策库 · 2026-11-11"
+    },
+    {
+     "title": "住房城乡建设部办公厅关于国家标准《橡胶坝工程技术标准（修订征求意见稿）》公开征求意见的通知",
+     "url": "https://www.mohurd.gov.cn/gongkai/zc/wjk/art/2026/art_907cd923fb784219bb3f4bee0da175bc.html",
+     "meta": "住建部-政策库 · 2026-11-11"
+    }
+   ],
+   "广东省发改委": [
+    {
+     "title": "广东省低空经济产业对接推介座谈会在北京举办",
+     "url": "https://drc.gd.gov.cn/gkmlpt/content/4/4980/post_4980025.html",
+     "meta": "广东-政务公开 · 2026-11-13"
+    }
+   ],
+   "广东省住建厅": [
+    {
+     "title": "广东省住房和城乡建设厅关于中图建筑工程咨询（广东）有限公司等六家施工图审查机构评审意见的公示",
+     "url": "http://zfcxjst.gd.gov.cn/gkmlpt/content/4/4979/post_4979827.html",
+     "meta": "广东住建厅-信息公开 · 2026-11-11"
+    }
+   ]
+  },
+  "featured": []
  }
 }
